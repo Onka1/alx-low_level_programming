@@ -1,12 +1,12 @@
-#!/bin/bash
 #include <stdio.h>
+
 /**
-*main - Entry point
-*Return: Always 0 (Success)
-*/
+  *main - Entry point
+  *Return: Always 0
+  */
 
 int main(void)
 {
-puts("\" programming is like building a mu;tilingual puzzele");
+puts("\"Programming is like building a multilingual puzzele");
 return (0);
 }
