@@ -4,7 +4,7 @@
  * main - main block
  * Destript - Write a program that prints
  * all possible combinations of single-digit numbers.
- * Return 0
+ * Return: 0
  */
 int main(void)
 {
