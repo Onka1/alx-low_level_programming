@@ -2,7 +2,7 @@
 #include <stdli.h>
 /**
  * main - main block
- * Description: Alphabet in lowercase
+ * Description: Alphabet in lowercase 5
  * Return: 0
  */
 int main(void)
