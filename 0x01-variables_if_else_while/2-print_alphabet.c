@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdli.h>
+#include <stdlib.h>
 /**
  * main - main block
  * Description: Alphabet in lowercase 5
