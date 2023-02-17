@@ -2,12 +2,12 @@
 #include <stdli.h>
 /**
  * main - main block
- * Description : Alphabet in lowercase
+ * Description: Alphabet in lowercase
  * Return: 0
  */
 int main(void)
 {
-	char c + 'a';
+	char c = 'a';
 
 	while (c <= 'z')
 	{
